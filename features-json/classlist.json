@@ -22,6 +22,9 @@
       "description":"IE does not support classList for SVGElements"
     },
     {
+      "description":"IE 10 does not support the optional second argument on the toggle method"
+    },
+    {
       "description":"WebKit browsers (Safari, Android browser, but NOT Chrome) do not have support for classList on SVG elements. A polyfill script is available."
     }
   ],
